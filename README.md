@@ -1,4 +1,4 @@
-# -First-project-in-JPA
+# First-project-in-JPA
 
 # Projeto Java com JPA - Operações Básicas de Cadastro
 
